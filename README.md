@@ -57,4 +57,4 @@ This folder can now be added to the game systems games directory.
 ###Launcher
 ![screenshot](https://cloud.githubusercontent.com/assets/10501925/14319292/ead76d2c-fc10-11e5-9609-939c9bce31e1.png)
 ###Controller
-![image](https://cloud.githubusercontent.com/assets/10501925/14319333/1f4c0194-fc11-11e5-9fd0-2003a77c9ef4.png)
+![image](https://cloud.githubusercontent.com/assets/10501925/14319477/a688f810-fc11-11e5-8cdf-cf03239b919a.png)
