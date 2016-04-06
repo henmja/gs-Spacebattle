@@ -16,7 +16,8 @@ Controller
 
 ##Precompiled
 
-For the game packaged together with the controller look under Releases.
+The game packaged together with the controller.
+@Releases
 
 Unzip and the spacebattle folder can now be added to the game systems games directory.
 
