@@ -4,7 +4,7 @@
 
 <modelVersion>4.0.0</modelVersion>
 
-<groupId>com.github.s111.bachelor</groupId>
+<groupId>com.github.henmja.bachelor</groupId>
 
 <artifactId>spacebattle</artifactId>
 
@@ -41,7 +41,7 @@
 
 -<manifest>
 
-<mainClass>com.github.s111.bachelor.spacebattle.Application</mainClass>
+<mainClass>com.github.henmja.bachelor.spacebattle.Application</mainClass>
 
 </manifest>
 
