@@ -6,7 +6,7 @@
 
 <groupId>com.github.s111.bachelor</groupId>
 
-<artifactId>pong</artifactId>
+<artifactId>spacebattle</artifactId>
 
 <version>2.0</version>
 
@@ -41,7 +41,7 @@
 
 -<manifest>
 
-<mainClass>com.github.s111.bachelor.pong.Application</mainClass>
+<mainClass>com.github.s111.bachelor.spacebattle.Application</mainClass>
 
 </manifest>
 
@@ -165,4 +165,4 @@
 
 </dependencies>
 
-</project
+</project>
