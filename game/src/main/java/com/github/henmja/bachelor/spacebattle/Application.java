@@ -1,7 +1,7 @@
-package com.github.s111.bachelor.spacebattle;
+package com.github.henmja.bachelor.spacebattle;
 
-import com.github.s111.bachelor.spacebattle.game.Spacebattle;
-import com.github.s111.bachelor.spacebattle.network.GameSession;
+import com.github.henmja.bachelor.spacebattle.game.Spacebattle;
+import com.github.henmja.bachelor.spacebattle.network.GameSession;
 
 import org.lwjgl.opengl.Display;
 import org.newdawn.slick.AppGameContainer;
