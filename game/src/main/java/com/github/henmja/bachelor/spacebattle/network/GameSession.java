@@ -1,6 +1,6 @@
-package com.github.s111.bachelor.spacebattle.network;
+package com.github.henmja.bachelor.spacebattle.network;
 
-import com.github.s111.bachelor.spacebattle.game.Spacebattle;
+import com.github.henmja.bachelor.spacebattle.game.Spacebattle;
 
 import org.glassfish.tyrus.client.ClientManager;
 
