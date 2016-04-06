@@ -1,4 +1,4 @@
-###Spacebattle
+#Spacebattle
 
 This game was developed by Henrik Lessø Mjaaland. 
 Spacebattle is a two-dimensional space shooter. I made it as a two-player game, because I think it would be too chaotic with more than two players considering the fact that the main weapon is ranged (one can either shoot or steer into the opponent in order to damage him), and the map is relatively small.
@@ -54,7 +54,7 @@ This folder can now be added to the game systems games directory.
 
 ##Screenshots
 
-#Launcher
+###Launcher
 ![screenshot](https://cloud.githubusercontent.com/assets/10501925/14319292/ead76d2c-fc10-11e5-9609-939c9bce31e1.png)
-#Controller
+###Controller
 ![image](https://cloud.githubusercontent.com/assets/10501925/14319333/1f4c0194-fc11-11e5-9fd0-2003a77c9ef4.png)
