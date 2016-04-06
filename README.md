@@ -17,7 +17,8 @@ Controller
 ##Precompiled
 
 The game packaged together with the controller.
-[Releases](https://github.com/henmja/gs-Spacebattle/releases)
+
+[All Releases](https://github.com/henmja/gs-Spacebattle/releases)
 
 Unzip and the spacebattle folder can now be added to the game systems games directory.
 
