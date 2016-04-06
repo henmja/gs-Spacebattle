@@ -1,0 +1,13 @@
+ {
+     "name": "Spacebattle",
+     "players": 2,
+     "description": "Spaceshooter. In order to win one must destroy the opposing player's ship by either shooting it or steering into it. If a player is hit by an asteroid or shot, the player's health is decreased by 1 unless the player is shielded.",
+     "launch-options": {
+         "all": [
+             "java",
+             "-Djava.library.path=games/spacebattle/lib",
+             "-jar",
+             "games/spacebattle/bin/spacebattle.jar"
+         ]
+     }
+ }
