@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.ArrayList;
 import java.util.List;
 
-class RandInt {/* list with spawning intervals for the asteroid and the forcefield.*/
+class RandInt {
 	private List<Integer> intervalList = new ArrayList<>();
 
 	RandInt(int beg, int end) {
