@@ -38,6 +38,7 @@ You should now be able to launch the game from your IDE. Remember that you need 
 To package the game for distribuiton you must execute the following command:
 
 mvn clean compile assembly:single
+
 Now create this folder structure:
 
 spacebattle/bin
