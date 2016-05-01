@@ -1,9 +1,10 @@
 #Spacebattle
 
 This game was developed by Henrik Lessø Mjaaland. 
-Spacebattle is a two-dimensional space shooter. I made it as a two-player game, because I think it would be too chaotic with more than two players considering the fact that the main weapon is ranged (one can either shoot or steer into the opponent in order to damage him), and the map is relatively small.
-After start-up, each player first chooses to start on either the left or the right side (just as in Pong). Both players starts with 10 health points. The player health bars are in the upper left and the upper right corner. For the first ten seconds both players are invulnerable to damage (this is to give the players some time to choose side). If a player is shot, or crashed into by either another player or an asteroid, the given player’s health bar reduces by one health point unless the given player is wielding a shield. One can obtain a shield by flying into the purple force field that will respawn at a random location every third second.
+Spacebattle is a two-dimensional space shooter. I made it as a two-player game, because I think it would be too chaotic with more than two players considering the fact that the main weapon is ranged (you can either shoot or steer into the opponent in order to damage him), and the map is relatively small.
+After start-up, each player first chooses to start on either the left or the right side (just as in Pong). The two triangles are the players, and the brown circles are asteroids. There are six asteroids that move across the map in random directions, and when they exit the game map, they will respawn on a random point at the edge of the map and move in new random direction. Both players starts with ten health points. The player health bars are in the upper left and the upper right corner. During the first three seconds, both players are invulnerable to damage (this is to give the players some time to choose which side they want to start at, and to give them a chance to get a look at their surroundings). If a player is shot, or crashed into by either another player or an asteroid, the given player’s health bar reduces by one health point unless the given player is wielding a shield. You can obtain a shield by flying into the purple force field that will respawn at a random location every third second.
 The grey buttons is used to steer, and the yellow button is used to fire bullets.
+
 
 ##Table of Contents
 
