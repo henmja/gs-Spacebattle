@@ -679,16 +679,16 @@ public class Spacebattle extends BasicGame implements ActionListener {
 		container.setShowFPS(false);
 		if (!gameover) {
 			g.setColor(WHITE);
-			if (10 - ((gameTimeLast - gameTimeStart) / 1000) >= 0) {
+			if (3 - ((gameTimeLast - gameTimeStart) / 1000) >= 0) {
 				g.drawString(""
-						+ (10 - ((gameTimeLast - gameTimeStart) / 1000)),
+						+ (3 - ((gameTimeLast - gameTimeStart) / 1000)),
 						WIDTH / 2, 20);
 			}
-			if ((10 - ((gameTimeLast - gameTimeStart) / 1000)) <= 0
-					&& (15 - ((gameTimeLast - gameTimeStart) / 1000)) >= 0) {
+			if ((3 - ((gameTimeLast - gameTimeStart) / 1000)) <= 0
+					&& (6 - ((gameTimeLast - gameTimeStart) / 1000)) >= 0) {
 				g.drawString("Fight!", WIDTH / 2, HEIGHT / 2);
 			}
-			if ((10 - ((gameTimeLast - gameTimeStart) / 1000)) <= 0) {
+			if ((3 - ((gameTimeLast - gameTimeStart) / 1000)) <= 0) {
 				invulnerable = false;
 			} else {
 				invulnerable = true;
@@ -1119,7 +1119,7 @@ public class Spacebattle extends BasicGame implements ActionListener {
 			}
 		}
 		collisionDetection();
-		forceFieldEngage();
+		forcefieldEngage();
 	}
 
 	public void collisionDetection() {
@@ -1182,7 +1182,7 @@ public class Spacebattle extends BasicGame implements ActionListener {
 
 	}
 
-	public void forceFieldEngage() {
+	public void forcefieldEngage() {
 		if (player1.intersects(forceField) && forceField2 == false) {
 			if (forceField1 == false) {
 				player1Shield = true;
