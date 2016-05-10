@@ -58,6 +58,6 @@ This folder can now be added to the game systems games directory.
 ##Screenshots
 
 ###Launcher
-![screenshot](![spacebattle](https://cloud.githubusercontent.com/assets/10501925/15156704/8cee5e30-16e8-11e6-8ec9-75016a80b6a5.png)
+![spacebattle](https://cloud.githubusercontent.com/assets/10501925/15156704/8cee5e30-16e8-11e6-8ec9-75016a80b6a5.png)
 ###Controller
 ![image](https://cloud.githubusercontent.com/assets/10501925/14319477/a688f810-fc11-11e5-8cdf-cf03239b919a.png)
