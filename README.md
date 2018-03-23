@@ -1,4 +1,4 @@
-#Spacebattle
+# Spacebattle
 
 Spacebattle is a two-dimensional space shooter. It’s a two-player game. The number of players is limited to two because it might be too chaotic with more than two players considering the fact that the main weapon is ranged (you can either shoot or steer into the opponent in order to damage him), and the map is relatively small.
 
@@ -11,7 +11,7 @@ The grey buttons on the controller is used to steer, and the yellow button on th
 
 
 
-##Table of Contents
+## Table of Contents
 
 Precompiled
 Develop
@@ -20,7 +20,7 @@ Screenshots
 Launcher
 Controller
 
-##Precompiled
+## Precompiled
 
 Download the game system from https://github.com/s111/gamesystem.
 
@@ -29,7 +29,7 @@ The game packaged together with the controller.
 
 Unzip and the spacebattle folder can now be added to the game systems games directory.
 
-##Develop
+## Develop
 
 Download the game system from https://github.com/s111/gamesystem.
 
@@ -43,7 +43,7 @@ Then you need to set VM options to -Djava.library.path=target/natives.
 
 You should now be able to launch the game from your IDE. Remember that you need the game system running in the background for it to work.
 
-##Compile and package
+## Compile and package
 
 To package the game for distribuiton you must execute the following command:
 
@@ -64,9 +64,9 @@ spacebattle/lib/lwjgl.dll
 spacebattle/lib/...
 This folder can now be added to the game systems games directory.
 
-##Screenshots
+## Screenshots
 
-###Launcher
+### Launcher
 ![spacebattle](https://cloud.githubusercontent.com/assets/10501925/15156704/8cee5e30-16e8-11e6-8ec9-75016a80b6a5.png)
-###Controller
+### Controller
 ![image](https://cloud.githubusercontent.com/assets/10501925/14319477/a688f810-fc11-11e5-8cdf-cf03239b919a.png)
