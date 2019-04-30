@@ -14,10 +14,15 @@ The grey buttons on the controller is used to steer, and the yellow button on th
 ## Table of Contents
 
 Precompiled
+
 Develop
+
 Compile and package
+
 Screenshots
+
 Launcher
+
 Controller
 
 ## Precompiled
@@ -45,7 +50,7 @@ You should now be able to launch the game from your IDE. Remember that you need 
 
 ## Compile and package
 
-To package the game for distribuiton you must execute the following command:
+To package the game for distribution you must execute the following command:
 
 mvn clean compile assembly:single
 
